@@ -1,0 +1,16 @@
+#cardone{
+    float: left;
+    height: 100px;
+    width: 35%;
+    margin-left: 100px;
+    margin-top: 300px;
+    text-align: center;
+}
+#cardtwo{
+    float: left;
+    height: 100px;
+    width: 35%;
+    margin-left: 100px;
+    margin-top: 300px;
+    text-align: center;
+}
